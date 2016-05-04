@@ -5,6 +5,7 @@ A Spring Boot web application on top of Docker
 Yoaz Menda
 
 Usage:
+
 (1) ./gradlew buildDocker
 
 (2) docker run -i -t -p 8080:8080 IMAGE_YOU_JUST_CREATED
